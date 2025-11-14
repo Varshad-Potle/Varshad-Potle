@@ -32,9 +32,9 @@ My work spans Node.js, modern frontend frameworks, cloud-powered services, and e
 
 ---
 ## 📁 Featured Work
+- **[Open-Source Contributions](https://github.com/ampproject/amphtml/pulls?q=is%3Apr+author%3AVarshad-Potle)** — fixes, improvements, and collaboration in public repositories including AMPProject.
 - **[Note-Taking App](https://github.com/Varshad-Potle/note-taking-app)** — a clean, minimal note editor with organized structure, smooth UX, and a reliable backend flow.
 - **[Text Utility App](https://github.com/Varshad-Potle/text-utility-app)** — lightweight text-processing tool with utilities for formatting, transforming, and analyzing content.
-- **[Open-Source Contributions](https://github.com/ampproject/amphtml/pulls?q=is%3Apr+author%3AVarshad-Potle)** — fixes, improvements, and collaboration in public repositories including AMPProject.
 ---
 ## 🎯 Focus Areas
 
