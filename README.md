@@ -57,8 +57,9 @@ Writing clean, maintainable, and scalable code
 ---
 
 ## 📬 Contact
-[![Email](https://img.shields.io/badge/Email-F4A261?style=for-the-badge&labelColor=f49661&logoColor=white)](mailto:work.varshad@gmail.com)
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=work.varshad@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-F4A261?style=for-the-badge&labelColor=f49661&logoColor=white" />
+</a>
 
 <a href="https://www.linkedin.com/in/varshad-potle-6bb821282/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2">
