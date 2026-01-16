@@ -2,7 +2,7 @@
 
 Backend-focused full-stack developer working across contemporary web stacks.  
 I build practical applications, design clean APIs, and write code that stays maintainable over time.  
-My work spans Node.js, modern frontend frameworks, cloud-powered services, and emerging tools like Convex, Clerk, Inngest, and LLM APIs.
+My work spans Node.js, modern frontend frameworks, cloud-powered services, and emerging tools like Convex, Supabase, Shadcn UI, and LLM APIs.
 
 ---
 
@@ -32,9 +32,9 @@ My work spans Node.js, modern frontend frameworks, cloud-powered services, and e
 
 ---
 ## 📁 Featured Work
-- **[AI Resume Analyzer](https://github.com/Varshad-Potle/ai-resume-analyzer.git)** — lightweight text-processing tool with utilities for formatting, transforming, and analyzing content.
-- **Open-Source Contributions** — fixes, improvements, and collaboration in public repositories including AMPProject, CircuitVerse and Rocket.Chat.
-- **[Note-Taking App](https://github.com/Varshad-Potle/note-taking-app)** — a clean, minimal note editor with organized structure, smooth UX, and a reliable backend flow.
+- **[URL-Shortner](https://github.com/Varshad-Potle/url-shortner.git)** — URL management platform that allows users to shorten links, generate downloadable QR codes, and track detailed engagement analytics, including click counts, geographic locations, and device types.
+- **[AI Resume Analyzer](https://github.com/Varshad-Potle/ai-resume-analyzer.git)** — Platform that allows users to get ATS score and detailed information on areas of improvement in their resumes to land their desired job.
+- **Open-Source Contributions** — fixes, improvements, and collaboration in public repositories.
 ---
 ## 🎯 Focus Areas
 
