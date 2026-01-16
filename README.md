@@ -46,13 +46,9 @@ Writing clean, maintainable, and scalable code
 
 ## 📊 GitHub Overview
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshad-Potle&theme=dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshad-Potle&theme=dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=3600" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Varshad-Potle&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Varshad-Potle&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshad-Potle&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
