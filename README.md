@@ -32,8 +32,8 @@ My work spans Node.js, modern frontend frameworks, cloud-powered services, and e
 
 ---
 ## 📁 Featured Work
+- **[Status-Pulse](https://github.com/Varshad-Potle/status-pulse.git)** — A real-time website monitoring platform that tracks latency, visualizes uptime history, and delivers instant alerts via Discord.
 - **[URL-Shortner](https://github.com/Varshad-Potle/url-shortner.git)** — URL management platform that allows users to shorten links, generate downloadable QR codes, and track detailed engagement analytics, including click counts, geographic locations, and device types.
-- **[AI Resume Analyzer](https://github.com/Varshad-Potle/ai-resume-analyzer.git)** — Platform that allows users to get ATS score and detailed information on areas of improvement in their resumes to land their desired job.
 - **Open-Source Contributions** — fixes, improvements, and collaboration in public repositories.
 ---
 ## 🎯 Focus Areas
