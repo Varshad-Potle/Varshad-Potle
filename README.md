@@ -17,6 +17,7 @@ My work spans Node.js, modern frontend frameworks, cloud-powered services, and e
   <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff" height="32"/>
 
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=fff" height="32"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=fff" height="32"/>
   <img src="https://img.shields.io/badge/Convex-000?style=for-the-badge&logo=vercel&logoColor=fff" height="32"/>
 
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=fff" height="32"/>
