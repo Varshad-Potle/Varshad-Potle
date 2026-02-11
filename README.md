@@ -33,6 +33,7 @@ My work spans Node.js, modern frontend frameworks, cloud-powered services, and e
 
 ---
 ## 📁 Featured Work
+- **[async-job-system](https://github.com/Varshad-Potle/async-job-system.git)** — Background Job Processing system, it supports asynchronous task execution, automatic retries with exponential backoff, crash recovery, and a Dead-Letter Queue (DLQ) for inspecting failed jobs.
 - **[Status-Pulse](https://github.com/Varshad-Potle/status-pulse.git)** — A real-time website monitoring platform that tracks latency, visualizes uptime history, and delivers instant alerts via Discord.
 - **[URL-Shortner](https://github.com/Varshad-Potle/url-shortner.git)** — URL management platform that allows users to shorten links, generate downloadable QR codes, and track detailed engagement analytics, including click counts, geographic locations, and device types.
 - **Open-Source Contributions** — fixes, improvements, and collaboration in public repositories.
