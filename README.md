@@ -8,28 +8,51 @@ My work spans Node.js, modern frontend frameworks, cloud-powered services, and e
 
 ## ⚙️ Tech I Use
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=fff" height="32"/> 
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff" height="32"/> 
-  <img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=fff" height="32"/>
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" height="28"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Caching</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=vercel&logoColor=fff" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" height="28"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020" height="28"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=fff" height="32"/>
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff" height="32"/>
-
-  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=fff" height="32"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=fff" height="32"/>
-  <img src="https://img.shields.io/badge/Convex-000?style=for-the-badge&logo=vercel&logoColor=fff" height="32"/>
-
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=fff" height="32"/>
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=fff" height="32"/>
-  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=fff" height="32"/>
-
-  <img src="https://img.shields.io/badge/Clerk-000?style=for-the-badge&logo=clerk&logoColor=fff" height="32"/>
-  <img src="https://img.shields.io/badge/Inngest-000?style=for-the-badge&logo=cloudflare&logoColor=fff" height="32"/>
-
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=fff" height="32"/>
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff" height="32"/>
-</p>
 
 ---
 ## 📁 Featured Work
