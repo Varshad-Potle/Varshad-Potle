@@ -1,8 +1,7 @@
 # Hi, I'm Varshad 👋
 
-Backend-focused full-stack developer working across contemporary web stacks.  
-I build practical applications, design clean APIs, and write code that stays maintainable over time.  
-My work spans Node.js, modern frontend frameworks, cloud-powered services, and emerging tools like Convex, Supabase, Shadcn UI, and LLM APIs.
+Backend-focused full-stack developer building scalable systems and real-time web applications.
+I design robust APIs, distributed job workflows, and production-ready services using Node.js, Redis, PostgreSQL, and modern React-based frameworks.
 
 ---
 
