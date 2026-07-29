@@ -1,7 +1,7 @@
 # Hi, I'm Varshad 👋
 
 Backend-focused full-stack developer building scalable systems and real-time web applications.
-I design robust APIs, distributed job workflows, and production-ready services using Node.js, Redis, PostgreSQL, and modern React-based frameworks.
+I design robust APIs, distributed job workflows, and production-ready services using Node.js, C++, PostgreSQL, and modern React-based frameworks.
 
 ---
 
@@ -21,6 +21,7 @@ I design robust APIs, distributed job workflows, and production-ready services u
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" height="28"/>
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/Drogon-181717?style=for-the-badge&logo=cplusplus&logoColor=fff" height="28"/>
     </td>
   </tr>
   <tr>
@@ -41,29 +42,30 @@ I design robust APIs, distributed job workflows, and production-ready services u
     </td>
   </tr>
   <tr>
-    <td><strong>DevOps & Tools</strong></td>
+    <td><strong>DevOps & Observability</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=fff" height="28"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=fff" height="28"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" height="28"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" height="28"/>
-      <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=fff" height="28"/>
-      <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020" height="28"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" height="28"/>
     </td>
   </tr>
 </table>
 
-
 ---
 ## 📁 Featured Work
-- **[async-job-system](https://github.com/Varshad-Potle/async-job-system.git)** — Background Job Processing system, it supports asynchronous task execution, automatic retries with exponential backoff, crash recovery, and a Dead-Letter Queue (DLQ) for inspecting failed jobs.
-- **[Status-Pulse](https://github.com/Varshad-Potle/status-pulse.git)** — A real-time website monitoring platform that tracks latency, visualizes uptime history, and delivers instant alerts via Discord.
-- **[URL-Shortner](https://github.com/Varshad-Potle/url-shortner.git)** — URL management platform that allows users to shorten links, generate downloadable QR codes, and track detailed engagement analytics, including click counts, geographic locations, and device types.
-- **Open-Source Contributions** — fixes, improvements, and collaboration in public repositories.
+- **[Linux Fleet Manager](https://github.com/Varshad-Potle/fleet-manager)** — Distributed system built with **C++, Drogon, and PostgreSQL** for monitoring Linux nodes. Features real-time metrics collection via `/proc`, automated failure detection, and an observability stack using **Prometheus & Grafana**.
+- **[Async Job System](https://github.com/Varshad-Potle/async-job-system)** — Background Job Processing system supporting asynchronous task execution, automatic retries with exponential backoff, crash recovery, and a Dead-Letter Queue (DLQ).
+- **[Status-Pulse](https://github.com/Varshad-Potle/status-pulse)** — A real-time website monitoring platform that tracks latency, visualizes uptime history, and delivers instant alerts via Discord.
+- **Open-Source Contributions** — Collaborated with core maintainers in a high-velocity repository (**1.1k+ stars, 250+ contributors**). Streamlined new developer onboarding by debugging and documenting a **GitHub Codespaces** environment stall.
+
 ---
+
 ## 🎯 Focus Areas
 
-Backend logic · API design · Architecture fundamentals  
-Consistent problem-solving · Open-source collaboration  
+Backend logic · API design · Distributed Systems Fundamentals  
+Algorithmic problem-solving · Open-source collaboration  
 Writing clean, maintainable, and scalable code  
 
 ---
@@ -84,4 +86,3 @@ Writing clean, maintainable, and scalable code
 <a href="https://www.linkedin.com/in/varshad-potle-6bb821282/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2">
 </a>
-
