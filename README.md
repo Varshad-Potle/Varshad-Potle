@@ -72,10 +72,9 @@ Writing clean, maintainable, and scalable code
 
 ## 📊 GitHub Overview
 
-![](https://github-readme-stats.vercel.app/api?username=Varshad-Potle&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Varshad-Potle&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshad-Potle&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats-fast.vercel.app/api?username=Varshad-Potle&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Varshad-Potle&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Varshad-Potle&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ## 📬 Contact
